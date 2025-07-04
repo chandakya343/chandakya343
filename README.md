@@ -2,8 +2,8 @@
 <!-- GitHub profile README for YOUR-USERNAME -->
 <h1 align="center">Hey, I’m Aryan&nbsp;Chandak&nbsp;👋</h1>
 <p align="center">
-  <b>Indie AI Engineer • Rapid-fire Prototyper • Eternal Tinkerer</b><br/>
-  When I need a tool and it doesn’t exist (or costs $20 a month) I just build it.
+  <b>Indie AI Engineer/Product Engineer(AI first) • Rapid-fire Prototyper • Eternal Tinkerer</b><br/>
+
 </p>
 
 <p align="center">
