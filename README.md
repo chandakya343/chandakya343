@@ -5,7 +5,6 @@
   <b>Indie AI Engineer/Product Engineer(AI first) • Rapid-fire Prototyper • Eternal Tinkerer</b><br/>
 
 </p>
----
 
 ## 🛠️ Projects I hacked together (for myself⁠—and now, for you)
 
