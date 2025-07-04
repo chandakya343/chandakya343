@@ -5,15 +5,6 @@
   <b>Indie AI Engineer/Product Engineer(AI first) • Rapid-fire Prototyper • Eternal Tinkerer</b><br/>
 
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-2E7BB4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Daily%20Driver-Linux%20%7C%20WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
 ---
 
 ## 🛠️ Projects I hacked together (for myself⁠—and now, for you)
