@@ -2,7 +2,7 @@
 <!-- GitHub profile README for YOUR-USERNAME -->
 <h1 align="center">Hey, I’m Aryan&nbsp;Chandak&nbsp;👋</h1>
 <p align="center">
-  <b>Indie AI Engineer/Product Engineer(AI first) • Rapid-fire Prototyper • Eternal Tinkerer</b><br/>
+  <b>Indie AI Engineer/Product Engineer(AI first)</b><br/>
 
 </p>
 
